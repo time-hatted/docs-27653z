@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-m419tg.wsafe.vip/sitemap.xml
